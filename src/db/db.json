@@ -1,0 +1,166 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "first_name": "Иван",
+      "last_name": "Иванов",
+      "patronymic": "Иванович",
+      "job_title": "Заведующий",
+      "department": "Отделение кардиологии"
+    },
+    {
+      "id": 2,
+      "first_name": "Петр",
+      "last_name": "Петров",
+      "patronymic": "Петрович",
+      "job_title": "Врач",
+      "department": "Отделение неврологии"
+    },
+    {
+      "id": 3,
+      "first_name": "Анна",
+      "last_name": "Сидорова",
+      "patronymic": "Ивановна",
+      "job_title": "Врач",
+      "department": "Отделение гастроэнтерологии"
+    },
+    {
+      "id": 4,
+      "first_name": "Елена",
+      "last_name": "Смирнова",
+      "patronymic": "Петровна",
+      "job_title": "Врач",
+      "department": "Отделение хирургии"
+    },
+    {
+      "id": 5,
+      "first_name": "Дмитрий",
+      "last_name": "Козлов",
+      "patronymic": "Александрович",
+      "job_title": "Врач",
+      "department": "Отделение гинекологии"
+    },
+    {
+      "id": 6,
+      "first_name": "Ольга",
+      "last_name": "Васильева",
+      "patronymic": "Сергеевна",
+      "job_title": "Врач",
+      "department": "Отделение педиатрии"
+    },
+    {
+      "id": 7,
+      "first_name": "Алексей",
+      "last_name": "Николаев",
+      "patronymic": "Владимирович",
+      "job_title": "Врач",
+      "department": "Отделение урологии"
+    },
+    {
+      "id": 8,
+      "first_name": "Екатерина",
+      "last_name": "Морозова",
+      "patronymic": "Игоревна",
+      "job_title": "Врач",
+      "department": "Отделение офтальмологии"
+    },
+    {
+      "id": 9,
+      "first_name": "Андрей",
+      "last_name": "Кузнецов",
+      "patronymic": "Алексеевич",
+      "job_title": "Врач",
+      "department": "Отделение оториноларингологии"
+    },
+    {
+      "id": 10,
+      "first_name": "Мария",
+      "last_name": "Лебедева",
+      "patronymic": "Викторовна",
+      "job_title": "Врач",
+      "department": "Отделение терапии"
+    }
+  ],
+  "nurses": [
+    {
+      "id": 1,
+      "first_name": "Елена",
+      "last_name": "Смирнова",
+      "patronymic": "Петровна",
+      "job_title": "медсестра",
+      "department": "Отделение кардиологии"
+    },
+    {
+      "id": 2,
+      "first_name": "Анна",
+      "last_name": "Иванова",
+      "patronymic": "Ивановна",
+      "job_title": "медсестра",
+      "department": "Отделение неврологии"
+    },
+    {
+      "id": 3,
+      "first_name": "Ольга",
+      "last_name": "Петрова",
+      "patronymic": "Петровна",
+      "job_title": "медсестра",
+      "department": "Отделение гастроэнтерологии"
+    },
+    {
+      "id": 4,
+      "first_name": "Екатерина",
+      "last_name": "Козлова",
+      "patronymic": "Дмитриевна",
+      "job_title": "медсестра",
+      "department": "Отделение хирургии"
+    },
+    {
+      "id": 5,
+      "first_name": "Мария",
+      "last_name": "Сидорова",
+      "patronymic": "Александровна",
+      "job_title": "медсестра",
+      "department": "Отделение гинекологии"
+    },
+    {
+      "id": 6,
+      "first_name": "Анастасия",
+      "last_name": "Васильева",
+      "patronymic": "Сергеевна",
+      "job_title": "медсестра",
+      "department": "Отделение педиатрии"
+    },
+    {
+      "id": 7,
+      "first_name": "Ольга",
+      "last_name": "Николаева",
+      "patronymic": "Владимировна",
+      "job_title": "медсестра",
+      "department": "Отделение урологии"
+    },
+    {
+      "id": 8,
+      "first_name": "Елена",
+      "last_name": "Морозова",
+      "patronymic": "Игоревна",
+      "job_title": "медсестра",
+      "department": "Отделение офтальмологии"
+    },
+    {
+      "id": 9,
+      "first_name": "Анна",
+      "last_name": "Кузнецова",
+      "patronymic": "Алексеевна",
+      "job_title": "медсестра",
+      "department": "Отделение оториноларингологии"
+    },
+    {
+      "id": 10,
+      "first_name": "Мария",
+      "last_name": "Лебедева",
+      "patronymic": "Викторовна",
+      "job_title": "медсестра",
+      "department": "Отделение терапии"
+    }
+  ]
+}
